@@ -9,6 +9,7 @@
   "author": "",
   "keywords": [],
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "express": "^5.2.1",
     "mo": "^1.7.3",
     "mongoose": "^9.6.2",
